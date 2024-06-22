@@ -1,0 +1,4 @@
+Amaury:
+worked on the add, delete, display, search functions
+Jack:
+Worked on all the sorting Algorithms and on the sorting students function
